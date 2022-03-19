@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+MyLogger3 in Pods
+Pods-MyLogger3_Tests in Pods, depends on:
+MyLogger3 in Pods (explicit)
